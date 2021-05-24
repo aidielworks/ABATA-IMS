@@ -1,0 +1,5 @@
+Change login UI
+-User can choose directly acc type in the login page
+
+Change authController 
+ -public function store
